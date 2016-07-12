@@ -7,71 +7,82 @@
 
 
 **Early Stage VC Firms/Angel Groups (Seed & Series A):**
-* Apex Venture Partners
+* Apex Venture Partners (http://www.apexvc.com/) —> also do growth stage
 
-* ARCH Venture Partners
+* ARCH Venture Partners (http://www.archventure.com/)
 
-* BlueCross BlueShield Venture Partners
+* Blue Cedar Ventures (http://bluecedarventures.com/)
 
-* Chicago Ventures
+* BlueCross BlueShield Venture Partners (http://bcbsvp.com/)
 
-* Cultivian Ventures
+* Chicago Ventures (http://chicagoventures.com/)
 
-* First Analysis Venture Capital
+* Cultivian Ventures (http://www.cultivian.com/)
 
-* Graphene Ventures
+  * $1 to $3 Million checks at Series A or later stage investments
 
-* Hyde Park Venture Partners
 
-* Illinois Ventures
 
-* Impact Engine
+* First Analysis Venture Capital (http://www.firstanalysis.com/) 
 
-* Lightbank
+* Graphene Ventures (http://www.graphene.vc/)
 
-* Listen Ventures
+* Hyde Park Venture Partners (http://hydeparkvp.com/) 
+
+* Illinois Ventures (http://illinoisventures.com/) → Focused on investments coming from the University of Illinois
+
+* Impact Engine (http://theimpactengine.com/)
+
+* KB Partners (http://www.kbpartners.com/)
+
+* Lightbank (http://www.lightbank.com/)
+
+* Listen Ventures (http://listen.co/)
 
 * M25 Group (http://m25group.com/)
 
-* MATH Venture Partners
+* MATH Venture Partners (http://www.mathventurepartners.com/) 
 
-* Motorola Solutions Venture Capital
+* Mercury Fund (http://mercuryfund.com/) → Software and life sciences
 
-* Nin Ventures
+* Nin Ventures (https://nin.vc/) 
 
-* OCA Ventures
+* OCA Ventures (http://www.ocaventures.com/)
 
-* Origin Ventures
+* Origin Ventures (http://originventures.com/)
 
-* Pritzker Group Venture Capital → also do later stage
+* Pritzker Group Venture Capital (http://www.pritzkergroup.com/venture-capital/) → also do later stage
 
-* Promus Ventures
+* Promus Ventures (http://www.promusventures.com/pg)
 
-* Platform Ventures
+* Platform Ventures (http://www.platformventure.com/) —> focus on founders with deep domain expertise
 
-* Vue Ventures
+* Treehouse Ventures (http://www.treehouse.vc/) → focused on real estate and construction
 
-* West Loop Ventures
+* Vue Ventures (http://www.vueventures.com/)
+
+* West Loop Ventures (http://www.westloopventures.com/) —> focused on B2B fintech
 
   ​
 
 
-**Growth Stage VC Firms:**
-* Chicago Growth Partners
-* JK&B Capital
-* Jump Capital
-* MK Capital
-* Victory Park Capital
+**Growth Firms:**
+* Amiti Ventures (http://www.amiticapital.com/) —> focused on Israeli founders
+* Baird Capital (http://www.bairdcapital.com/)
+* Baxter Ventures (http://www.baxter.com/inside-baxter/science/programs/baxter-ventures.page) —> focused on healthcare and medical technology
+* Chicago Growth Partners (http://cgp.com/)
+* Duchossois Technology Partners (http://www.dcmllc.com/)
+* JK&B Capital (http://www.jkbcapital.com/)
+* Jump Capital (http://jumpcap.com/)
+* MK Capital (http://www.mkcapital.com/) 
+* Motorola Solutions Venture Capital (http://www.motorolasolutions.com/en_us/about/company-overview/ventures.html) 
+* Victory Park Capital (http://www.victoryparkcapital.com/)
 
 
 
 
-**Other firms (need to categorize above):**
-* KB Partners
+**Other firms (not enough info):**
 * Wicklow Capital
-* Baxter Ventures
-* Duchossois Technology Partners
-* Amiti Ventures
 * CME Group
 * BP Ventures
 * Mesirow Financial
@@ -80,26 +91,39 @@
 * Satter Investment Management
 * Patho Capital
 * True North Venture Partners
-* Baird Capital
-* Jump Capital
 * Adams Street Partners
 * KDWC Ventures
+* Jumpstart Ventures
 
 
 
 
 **Accelerators:**
 * Bunker Labs Chicago (https://bunkerlabs.org/) → Accelerator for veterans
+
 * Elmspring (http://elmspringaccelerator.com/) → Accelerator focused on real estate technology
+
 * Energy Foundry
+
 * Founder Institute Chicago
+
 * Good Food Accelerator
+
 * Healthbox (http://www.healthbox.com/) → Accelerator for healthcare tech
+
 * Insight Accelerator (http://insightpd.com/accelerator/insight-accelerator-labs/) → Medical Device accelerator 
+
+* Plug and Play Chicago (http://chicago.plugandplaytechcenter.com/) 
+
+* Sunshine Enterprises (http://sunshineenterprises.com/) → Focused on neighborhood-based companies
+
 * Techstars Chicago (http://www.techstars.com/programs/chicago-program/) 
+
+* Venture Shot (http://ventureshot.com/) 
+
 * WiSTEM (http://www.1871.com/wistem/) → Accelerator for companies led by women
 
-
+  ​
 
 
 **Startup Studios**
@@ -112,17 +136,27 @@
 **Incubators:**
 
 * 1871 (http://1871.com)
+
 * 2112 (http://www.2112inc.com/) → focused on companies in music, film/video, and creative tech
+
 * Blue1647 (http://www.blue1647.com/) 
+
 * Catalyze Chicago (http://www.catalyzechicago.org/) → focused on companies with physical products
+
 * Catapult Chicago (http://www.catapultchicago.com/)
+
 * Chicago Innovation Exchange (https://cie.uchicago.edu/) 
+
 * PROPEL (http://ibiopropel.org/) → focused on life science startups
+
 * MATTER (http://matterchicago.com/) → incubator focused on healthcare companies
+
 * TechNexus (http://technexus.com/) 
 
+  ​
 
-*Took out places that are just coworking spaces just because of the vast number. ChicagoInno has a good list: http://chicagoinno.streetwise.co/2015/03/30/chicago-co-working-spaces-a-map-of-the-citys-shared-spaces/* 
+
+*I removed purely coworking office spaces because of the large number. ChicagoInno has a good list in case someone is interested: http://chicagoinno.streetwise.co/2015/03/30/chicago-co-working-spaces-a-map-of-the-citys-shared-spaces/* 
 
 
 
