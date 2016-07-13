@@ -26,6 +26,7 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 * [Cultivian Ventures](http://www.cultivian.com/)
 * [First Analysis Venture Capital](http://www.firstanalysis.com/) 
 * [Graphene Ventures](http://www.graphene.vc/)
+* [Guild Capital](http://guildcap.com)
 * [Hyde Park Venture Partners](http://hydeparkvp.com/) 
 * [Illinois Ventures](http://illinoisventures.com/) - _focused on companies associated with the University of Illinois_
 * [Impact Engine](http://theimpactengine.com/)
