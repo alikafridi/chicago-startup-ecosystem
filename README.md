@@ -4,7 +4,7 @@ A few weeks ago, I moved to Chicago to join the investment team at [Lightbank](h
 
 Chicago’s tech startup scene has grown a lot over the last four years. As a student at the University of Illinois I did trips up to Chicago a few times each semester to work out of coworking spaces or meet with founders. It has been amazing to see the growth in the last few years and I’m excited to become a part of the ecosystem.
 
-As with many of my other posts, this is meant to be dynamic. If I’ve missed anything, let me know through twitter or email (ali@afridi.io) and I’ll update it. I’ve also published this on github, so feel free to update and make a pull request to the repo. 
+As with many of my other posts, this is meant to be dynamic. If I’ve missed anything, let me know through twitter or email (ali@afridi.io) and I’ll update it. I’ve also published this on github, so feel free to update and make a pull request to the repo. *For those on github, this is published [on Medium](https://medium.com/@AliKAfridi/an-overview-of-chicagos-tech-ecosystem-43d9fc8a7f4e#.yi8lzpt4f) as well*
 
 
 
@@ -75,8 +75,8 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 
 **Accelerators:**
 * [Bunker Labs Chicago](https://bunkerlabs.org/) - _focused on companies started by veterans_ 
-* [Elmspring](http://elmspringaccelerator.com/) - _focused on real estate technology_ 
-* [Energy Foundry](http://www.energyfoundry.com/) - _focused on energy tech_
+* [Elmspring](http://elmspringaccelerator.com/) - _focused on real estate tech_ 
+* [Energy Foundry](http://www.energyfoundry.com/) - _focused on energy_
 * [Founder Institute Chicago](http://fi.co/s/chicago) - _focused on companies still at the idea stage_
 * [Good Food Accelerator](http://www.goodfoodaccelerator.org/) - _focused on farm & food businesses_
 * [Healthbox](http://www.healthbox.com/) - _focused on healthcare tech_
