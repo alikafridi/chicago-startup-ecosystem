@@ -116,7 +116,7 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 
 
 
-**Major blogs / press:**
+**Major blogs / press covering chicago tech:**
 
 - [Blue Sky Innovation](http://www.chicagotribune.com/bluesky/technology/)
 
@@ -125,3 +125,10 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 * [Crain’s Chicago Business, Technology Section](http://www.chicagobusiness.com/news/technology)
 * [Tech in Chicago podcast](http://www.techinchicago.co/)
 
+
+
+
+**Blogs from individuals in the community:**
+
+- [Points and Figures](http://pointsandfigures.com/) (Jeff Carter)
+- [Breaking VC](http://www.breakingvc.com/) (Ezra Galston)
