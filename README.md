@@ -10,9 +10,13 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 
 **Angel Groups**
 
-* [Angel Investors of Chicago](http://www.angelinvestorschicago.com/)
+* [Angel Investors of Chicago](http://www.angelinvestorschicago.com/) 
+* [Chicago Arch Angels](http://chicagoarchangels.com/)
 * [Cornerstone Angels](http://www.cornerstoneangels.com/) 
-* [Hyde Park Angels](http://www.hydeparkangels.com/)
+* [Harvard Business Angels of Chicago](https://gust.com/organizations/harvard-business-school-angels-of-chicago) 
+* [Hyde Park Angels](http://www.hydeparkangels.com/) 
+* [MD Angels (formerly TiE Angels Midwest)](https://gust.com/organizations/tie-angels-midwest)
+* [West Suburban Angels](http://www.westsuburbanangels.com/) 
 
 
 
@@ -20,13 +24,17 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 **Early Stage VC Firms/Angel Groups (Seed & Series A):**
 * [Apex Venture Partners](http://www.apexvc.com/) *
 * [ARCH Venture Partners](http://www.archventure.com/)
+* [Batterson Venture Partners](http://www.battersonvc.com/)
 * [Blue Cedar Ventures](http://bluecedarventures.com/)
 * [BlueCross BlueShield Venture Partners](http://bcbsvp.com/)
+* [Caerus Investment Partners](http://www.caerusip.com/)
 * [Chicago Ventures](http://chicagoventures.com/)
 * [Cultivian Ventures](http://www.cultivian.com/)
 * [First Analysis Venture Capital](http://www.firstanalysis.com/) 
+* [Founder Equity](http://founderequity.com/) 
 * [Graphene Ventures](http://www.graphene.vc/)
-* [Guild Capital](http://guildcap.com)
+* [Guild Capital](http://guildcap.com) 
+* [Harbor Street Ventures](http://www.harborstreetventures.com/) 
 * [Hyde Park Venture Partners](http://hydeparkvp.com/) 
 * [Illinois Ventures](http://illinoisventures.com/) - _focused on companies associated with the University of Illinois_
 * [Impact Engine](http://theimpactengine.com/)
@@ -38,15 +46,20 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 * [M25 Group](http://m25group.com/)
 * [MATH Venture Partners](http://www.mathventurepartners.com/) 
 * [Mercury Fund](http://mercuryfund.com/)
-* [Nin Ventures](https://nin.vc/)
+* [Network Ventures](https://angel.co/network-ventures) 
+* [NextGen Venture Partners](https://nextgenvp.com)
+* [Nin Ventures](https://nin.vc/) 
 * [N.XT Fund and NUseeds](http://www.northwestern.edu/newscenter/stories/2016/04/nxt-nuseeds-entrepreneurs-funding.html) - _focused on companies associated with Northwestern University_
 * [OCA Ventures](http://www.ocaventures.com/)
-* [Origin Ventures](http://originventures.com/)
+* [Origin Ventures](http://originventures.com/) 
+* [Pallasite Ventures](http://www.pallasiteventures.com/)
 * [Pritzker Group Venture Capital](http://www.pritzkergroup.com/venture-capital/) * 
 * [Promus Ventures](http://www.promusventures.com/pg)
 * [Platform Ventures](http://www.platformventure.com/)
 * [Treehouse Ventures](http://www.treehouse.vc/) - _focused on real estate and construction_
+* [Tribal Ventures](http://www.tribalventuresllc.com/)  
 * [True North Venture Partners](http://www.truenorthvp.com/) - _focused on energy, water, agriculture and waste_
+* [vCapital](http://www.vcapital.com/)
 * [Vue Ventures](http://www.vueventures.com/)
 * [West Loop Ventures](http://www.westloopventures.com/) - _focused on B2B fintech_
 
@@ -63,12 +76,13 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 * [Chicago Growth Partners](http://cgp.com/)
 * [CME Ventures](http://www.cmegroup.com/cme-ventures.html)
 * [Duchossois Technology Partners](http://www.dcmllc.com/)
-* [JK&B Capital](http://www.jkbcapital.com/)
+* [JK&B Capital](http://www.jkbcapital.com/) 
 * [Jump Capital](http://jumpcap.com/)
 * [MK Capital](http://www.mkcapital.com/)
 * [Motorola Solutions Venture Capital](http://www.motorolasolutions.com/en_us/about/company-overview/ventures.html)
 * Patho Capital
 * [Victory Park Capital](http://www.victoryparkcapital.com/)
+* [West Suburban Angels](http://www.westsuburbanangels.com/)
 * Wicklow Capital
 
 
@@ -77,17 +91,21 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 **Accelerators:**
 * [Bunker Labs Chicago](https://bunkerlabs.org/) - _focused on companies started by veterans_ 
 * [Elmspring](http://elmspringaccelerator.com/) - _focused on real estate tech_ 
-* [Energy Foundry](http://www.energyfoundry.com/) - _focused on energy_
+* [Energy Foundry](http://www.energyfoundry.com/)** - _focused on energy_ 
 * [Founder Institute Chicago](http://fi.co/s/chicago) - _focused on companies still at the idea stage_
 * [Good Food Accelerator](http://www.goodfoodaccelerator.org/) - _focused on farm & food businesses_
 * [Healthbox](http://www.healthbox.com/) - _focused on healthcare tech_
 * [Insight Accelerator](http://insightpd.com/accelerator/insight-accelerator-labs/) - _focused on medical devices_
+* [Moderne Ventures](http://www.moderneventures.com/)** - _focused on real estate, mortgage, finance, insurance & home services ventures_
 * [Plug and Play Chicago](http://chicago.plugandplaytechcenter.com/) 
 * [Sunshine Enterprises](http://sunshineenterprises.com/) - _focused on neighborhood-based companies_
 * [Techstars Chicago](http://www.techstars.com/programs/chicago-program/) 
+* [The Cultivator](http://www.thecultivator.com/) 
 * [Venture Shot](http://ventureshot.com/) 
 * [WiSTEM](http://www.1871.com/wistem/) - _focused on companies started by women_
 
+
+** also a venture fund
 
 
 
