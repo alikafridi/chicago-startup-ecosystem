@@ -21,7 +21,7 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 
 
 
-**Early Stage VC Firms/Angel Groups (Seed & Series A):**
+**Early Stage VC Firms (Seed & Series A):**
 * [Apex Venture Partners](http://www.apexvc.com/) *
 * [ARCH Venture Partners](http://www.archventure.com/)
 * [Batterson Venture Partners](http://www.battersonvc.com/)
