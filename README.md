@@ -84,10 +84,10 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 * [Lincoln Park Capital](http://www.lincolnparkcapital.com/)
 * [MK Capital](http://www.mkcapital.com/)
 * [Motorola Solutions Venture Capital](http://www.motorolasolutions.com/en_us/about/company-overview/ventures.html)
-* Patho Capital
+* Patho Capital - _focused on healthcare companies_
 * [Victory Park Capital](http://www.victoryparkcapital.com/)
 * [West Suburban Angels](http://www.westsuburbanangels.com/)
-* Wicklow Capital
+* [Wicklow Capital](https://www.crunchbase.com/organization/wicklow-capital#/entity)
 
 
 
