@@ -24,6 +24,7 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 **Early Stage VC Firms (Seed & Series A):**
 * [Apex Venture Partners](http://www.apexvc.com/) *
 * [ARCH Venture Partners](http://www.archventure.com/)
+* [Baird Capital](http://www.bairdcapital.com/) *
 * [Batterson Venture Partners](http://www.battersonvc.com/)
 * [Blue Cedar Ventures](http://bluecedarventures.com/)
 * [BlueCross BlueShield Venture Partners](http://bcbsvp.com/)
@@ -56,6 +57,8 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 * [Pritzker Group Venture Capital](http://www.pritzkergroup.com/venture-capital/) * 
 * [Promus Ventures](http://www.promusventures.com/pg)
 * [Platform Ventures](http://www.platformventure.com/)
+* [Romar Partners](http://www.builtinchicago.org/company/romar-partners)
+* [Sandbox Industries](http://sandboxindustries.com/) *
 * [Treehouse Ventures](http://www.treehouse.vc/) - _focused on real estate and construction_
 * [Tribal Ventures](http://www.tribalventuresllc.com/)  
 * [True North Venture Partners](http://www.truenorthvp.com/) - _focused on energy, water, agriculture and waste_
@@ -71,13 +74,13 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 **Growth Firms:**
 * [Adam Street Partners](http://www.adamsstreetpartners.com/)
 * [Amiti Ventures](http://www.amiticapital.com/) - _focused on Israeli founders_
-* [Baird Capital](http://www.bairdcapital.com/)
 * [Baxter Ventures](http://www.baxter.com/inside-baxter/science/programs/baxter-ventures.page) - _focused on healthcare and medical technology_
 * [Chicago Growth Partners](http://cgp.com/)
 * [CME Ventures](http://www.cmegroup.com/cme-ventures.html)
 * [Duchossois Technology Partners](http://www.dcmllc.com/)
 * [JK&B Capital](http://www.jkbcapital.com/) 
 * [Jump Capital](http://jumpcap.com/)
+* [Lincoln Park Capital](http://www.lincolnparkcapital.com/)
 * [MK Capital](http://www.mkcapital.com/)
 * [Motorola Solutions Venture Capital](http://www.motorolasolutions.com/en_us/about/company-overview/ventures.html)
 * Patho Capital
@@ -90,6 +93,8 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 
 **Accelerators:**
 * [Bunker Labs Chicago](https://bunkerlabs.org/) - _focused on companies started by veterans_ 
+* [Clean Energy Trust](http://cleanenergytrust.org/) - _focused on clean energy companies_
+* [The Cultivator](http://www.thecultivator.com/) 
 * [Elmspring](http://elmspringaccelerator.com/) - _focused on real estate tech_ 
 * [Energy Foundry](http://www.energyfoundry.com/)** - _focused on energy_ 
 * [Founder Institute Chicago](http://fi.co/s/chicago) - _focused on companies still at the idea stage_
@@ -100,7 +105,6 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 * [Plug and Play Chicago](http://chicago.plugandplaytechcenter.com/) 
 * [Sunshine Enterprises](http://sunshineenterprises.com/) - _focused on neighborhood-based companies_
 * [Techstars Chicago](http://www.techstars.com/programs/chicago-program/) 
-* [The Cultivator](http://www.thecultivator.com/) 
 * [Venture Shot](http://ventureshot.com/) 
 * [WiSTEM](http://www.1871.com/wistem/) - _focused on companies started by women_
 
@@ -111,8 +115,8 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 
 **Startup Studios**
 
-- [Incisent Labs](http://incisentlabs.com/) 
-
+* [Incisent Labs](http://incisentlabs.com/) 
+* [L Street Collaborative](http://www.lstreetc.com/)
 * [Roniin](http://roniin.com/) 
 
 
@@ -126,6 +130,7 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 * [Catalyze Chicago](http://www.catalyzechicago.org/) - _focused on companies with physical products_
 * [Catapult Chicago](http://www.catapultchicago.com/)
 * [Chicago Innovation Exchange](https://cie.uchicago.edu/) 
+* [The Garage](http://thegarage.northwestern.edu/) - _for founders coming out of Northwestern_
 * [MATTER](http://matterchicago.com/) - _focused on healthcare companies_
 * [PROPEL](http://ibiopropel.org/) - _focused on life science startups_
 * [TechNexus](http://technexus.com/) 
@@ -137,8 +142,7 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 
 **Major blogs / press covering chicago tech:**
 
-- [Blue Sky Innovation](http://www.chicagotribune.com/bluesky/technology/)
-
+* [Blue Sky Innovation](http://www.chicagotribune.com/bluesky/technology/)
 * [Built in Chicago](http://www.builtinchicago.org/) 
 * [Chicago Inno](http://chicagoinno.streetwise.co/) 
 * [Crain’s Chicago Business, Technology Section](http://www.chicagobusiness.com/news/technology)
@@ -150,4 +154,5 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 **Blogs from individuals in the community:**
 
 - [Points and Figures](http://pointsandfigures.com/) (Jeff Carter)
+- [Eric Lefkofsky's Blog](http://www.lefkofsky.com/category/blog-and-news/)
 - [Breaking VC](http://www.breakingvc.com/) (Ezra Galston)
