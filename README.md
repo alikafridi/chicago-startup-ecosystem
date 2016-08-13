@@ -48,6 +48,7 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 * [MATH Venture Partners](http://www.mathventurepartners.com/) 
 * [Mercury Fund](http://mercuryfund.com/)
 * [Network Ventures](https://angel.co/network-ventures) 
+* [Neighborhood Start Fund](http://www.start.fund/)
 * [NextGen Venture Partners](https://nextgenvp.com)
 * [Nin Ventures](https://nin.vc/) 
 * [N.XT Fund and NUseeds](http://www.northwestern.edu/newscenter/stories/2016/04/nxt-nuseeds-entrepreneurs-funding.html) - _focused on companies associated with Northwestern University_
